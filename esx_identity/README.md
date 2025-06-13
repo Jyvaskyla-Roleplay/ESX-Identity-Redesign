@@ -4,7 +4,7 @@ A Core Resource that Allows the player to Pick their characters, Name, Gender, H
 
 ![Preview](./preview.png)
 
-# Infomation
+# Infomation OTSOONIN VERSIO
 
 ## Requirements
 
